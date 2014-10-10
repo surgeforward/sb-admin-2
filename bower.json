@@ -1,11 +1,11 @@
 {
-  "name": "sb-admin-2",
+  "name": "pure-sb-admin-2",
   "version": "0.0.1",
   "homepage": "https://github.com/bearchit/sb-admin-2",
   "authors": [
     "Mingoo Kim <bearchit@gmail.com>"
   ],
-  "description": "Bower package for SB Admin 2 Bootstrap template",
+  "description": "Pure bower package for SB Admin 2 Bootstrap template",
   "main": [
     "js/sb-admin-2.js",
     "js/plugins/dataTables/dataTables.bootstrap.js",
